@@ -102,3 +102,7 @@ p{
 .top-vertical-align{
   vertical-align:top;
 }
+
+.text-small{
+  font-size: 0.7em;
+}
