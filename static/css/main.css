@@ -64,7 +64,7 @@ a.nav-link:hover{
   max-width:21em;
 }
 
-div.pagetext{
+p.pagetext, div.pagetext{
   text-align:center
 }
 
