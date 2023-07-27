@@ -106,3 +106,8 @@ p{
 .text-small{
   font-size: 0.7em;
 }
+
+.disabled{
+  color: gray;
+  cursor: not-allowed;
+}
