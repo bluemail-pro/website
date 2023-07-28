@@ -11,6 +11,11 @@ h2.subheading{
   font-size:1em;
 }
 
+h2.subheading-large{
+  text-align:center;
+  font-size:2em;
+}
+
 div.nav-left{
   position:fixed;
   top:1em;
