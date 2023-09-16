@@ -71,6 +71,14 @@ a.link-nostyle:hover{
   text-decoration:underline;
 }
 
+a.link-no-underline{
+  text-decoration:none;
+}
+
+a.link-no-underline:hover{
+  text-decoration:none; !important
+}
+
 a.nav-link{
 }
 
